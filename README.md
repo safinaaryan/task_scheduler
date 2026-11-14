@@ -1,6 +1,6 @@
 # Mini Task Scheduler (Bash)
 
-A small task scheduler written in pure Bash.
+A small task scheduler written in pure Bash. Inspired by [purarue/evry](https://github.com/purarue/evry).
 
 **Core idea:** a task runs only if enough time has passed since the last time it ran.
 The last run time is saved in a small file for every task.
